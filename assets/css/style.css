@@ -108,6 +108,10 @@ p {
   margin-right: 15px;
 }
 
+#portfolio {
+  color: #4aaaa5;
+}
+
 /** submit form **/
 
 #form {
